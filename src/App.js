@@ -5,10 +5,11 @@ function App() {
   return (
     <div className="main-container">
       <Stars
-      value={1.5}
-      fontSize="10px"
+      value={8}
+      starSize="30px"
       starColor="black"
       direction="ltr"
+      starsNumber={9}
       />
     </div>
   );
