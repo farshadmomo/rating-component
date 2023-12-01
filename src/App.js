@@ -8,7 +8,7 @@ function App() {
       value={1.5}
       fontSize="10px"
       starColor="black"
-      direction="rtl"
+      direction="ltr"
       />
     </div>
   );
