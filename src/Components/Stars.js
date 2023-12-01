@@ -49,7 +49,6 @@ export default function Stars(props) {
             console.log("please enter a number multiple of 0.5")
         }
     }
-
     return (
         <div className='stars-container'>
             {stars}
